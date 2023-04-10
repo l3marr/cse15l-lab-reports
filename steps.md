@@ -11,8 +11,9 @@
 >[VSCode Download](https://code.visualstudio.com/)
 >If you are using a Windows device, make sure to download GitBash
 >[GitBash download](https://git-scm.com/download/win)
+
+*Logging in using VSCode and running commands:*
 >Open up a terminal in VSCode. Type in *ssh* and then type in your CSE15L account email. If you entered the email in correctly you will be prompted to enter the password to that account that you just created moments ago. 
 >Once the login is successful you will be prompted with a large chunk of text and numbers in the terminal like this: 
-
 > Go ahead and try running some commands in the terminal
 > Once you are done, you can exit remote access by simply typing: *exit*
