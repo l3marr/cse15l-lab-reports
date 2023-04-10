@@ -21,6 +21,7 @@
 ![Image](RemoteLoginSS.png)
 
 *Trying commands*
+![Image](Commands.png)
 > Go ahead and try running some commands in the terminal
 * Experiment with different commands and see what is returned! Here are some to get you started *pwd* , *cd* , *ls -lat*, *ls -a*
 * Once you are done, you can exit remote access by simply typing *exit* into the terminal 
