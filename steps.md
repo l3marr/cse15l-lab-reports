@@ -12,7 +12,6 @@
 ![Image](VSCodeSS.png)
 >If you are using a Windows device, make sure to download GitBash
 >[GitBash download](https://git-scm.com/download/win)
----
 *Logging in using VSCode and running commands:*
 * Open up a terminal in VSCode. 
 * Type in *ssh* and then type in your CSE15L account email and hit enter
@@ -21,6 +20,7 @@
 ![Image](RemoteLoginSS.png)
 
 *Trying commands*
+
 ![Image](Commands.png)
 > Go ahead and try running some commands in the terminal
 * Experiment with different commands and see what is returned! Here are some to get you started *pwd* , *cd* , *ls -lat*, *ls -a*
