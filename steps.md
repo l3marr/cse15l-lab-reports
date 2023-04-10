@@ -16,5 +16,8 @@
 *Logging in using VSCode and running commands:*
 >Open up a terminal in VSCode. Type in *ssh* and then type in your CSE15L account email. If you entered the email in correctly you will be prompted to enter the password to that account that you just created moments ago. Once the login is successful you will be prompted with a large chunk of text and numbers in the terminal like this: 
 ![Image](RemoteLoginSS.png)
+
+*Trying commands*
 > Go ahead and try running some commands in the terminal
-> Once you are done, you can exit remote access by simply typing: *exit*
+> Experiment with different commands and see what is returned! Here are some to get you started *pwd* , *cd* , *ls -lat*, *ls -a*
+> Once you are done, you can exit remote access by simply typing *exit* into the terminal 
