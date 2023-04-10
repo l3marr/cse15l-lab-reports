@@ -6,7 +6,7 @@
 *You will have to first reset a new password for the CSE15L account
 [Follow these instructions](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)
 >*Ask a friend next to you or an instuctor for support if you are having trouble resetting the password*
----
+
 >Once you have reset the password, open VSCode or download it if you have not done so already
 [VSCode Download](https://code.visualstudio.com/)
 ![Image](VSCodeSS.png)
@@ -19,7 +19,7 @@
 *Type in your password
 >Once the login is successful you will be prompted with a large chunk of text and numbers in the terminal like this: 
 ![Image](RemoteLoginSS.png)
----
+
 *Trying commands*
 > Go ahead and try running some commands in the terminal
 * Experiment with different commands and see what is returned! Here are some to get you started *pwd* , *cd* , *ls -lat*, *ls -a*
