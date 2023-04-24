@@ -15,7 +15,7 @@
 >[GitBash download](https://git-scm.com/download/win)
 *Logging in using VSCode and running commands:*
 * Open up a terminal in VSCode. 
-* Type in *ssh* and then type in your CSE15L account email and hit enter
+* Type in `ssh` and then type in your CSE15L account email and hit enter
 * Type in your password
 >Once the login is successful you will be prompted with a large chunk of text and numbers in the terminal like this: 
 ![Image](RemoteLoginSS.png)
@@ -25,4 +25,8 @@
 ![Image](Commands.png)
 > Go ahead and try running some commands in the terminal
 * Experiment with different commands and see what is returned! Here are some to get you started `pwd`  `cd`  `ls` `lat` 
+* Pwd writes the full path name of your current directory
+* Cd displays the name of the current directory
+* Ls displays the contents of the current or specified directory 
+* 
 * Once you are done, you can exit remote access by simply typing *exit* into the terminal 
