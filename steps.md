@@ -19,7 +19,6 @@
 * Type in your password
 >Once the login is successful you will be prompted with a large chunk of text and numbers in the terminal like this: 
 ![Image](RemoteLoginSS.png)
-
 ## Trying commands
 ![Image](Commands.png)
 > Go ahead and try running some commands in the terminal
@@ -27,5 +26,4 @@
 * Pwd writes the full path name of your current directory
 * Cd displays the name of the current directory
 * Ls displays the contents of the current or specified directory 
-* 
 * Once you are done, you can exit remote access by simply typing *exit* into the terminal 
